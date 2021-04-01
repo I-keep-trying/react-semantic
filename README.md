@@ -7,3 +7,5 @@
 ### - fixed footer
 
 ### - eslint with `jsx-a11y/recommended`
+
+#### Out-of-box Lighthouse score: 60
